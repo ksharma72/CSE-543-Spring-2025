@@ -1,8 +1,6 @@
-id: example
-name: Example Dojo
-type: example
-award:
-  emoji: 😀
+id: cse543-2025-spring
+name: CSE 543 - Spring 2025
+type: course
 image: pwncollege/challenge-simple
 modules:
   - id: hello
