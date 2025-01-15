@@ -1,8 +1,6 @@
 id: cse543-2025-spring
 name: CSE 543 - Spring 2025
 type: course
-visibility:
-  start: "2025-01-15T00:00:00-07:00"
 modules:
   - id: hello
   - id: world
